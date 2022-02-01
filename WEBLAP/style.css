@@ -1,0 +1,14 @@
+body{
+    background-image: url("background.jpg")
+}
+
+#felulet{
+    width: 1400px;
+    height: 800px;
+    background-color: rgb(230, 175, 100);
+    margin: auto;
+}
+
+.bekezdes{
+    color: black;
+}
